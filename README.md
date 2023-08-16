@@ -1,7 +1,4 @@
-# wombling_experiment
-
-Multiviz Wombling Project
-https://jloo0021.github.io/wombling_experiment/
+# Multiviz Wombling Project
 
 This is a web app designed to explore the efficacy of the wombling technique in urban data analysis. Wombling is a boundary analysis technique used to identify and analyse differences between neighbouring areas. This app uses the Mapbox API to visualise the wombling data.
 
